@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+name: My Data Science Journey
+
+description: For the love of Data
+
+url: https://avannaldas.github.io
+
+permalink: /:title/
