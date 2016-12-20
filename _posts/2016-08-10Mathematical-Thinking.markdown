@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mathematical Thinking"
-date: 2016-10-08
+date: 2016-08-10
 ---
 Mathematics is a fascinating subject, yes that was not true for me just two days ago. I started learning mathematics just two days ago. Not because I loved it, but because I realized it’s a very important subject. I need to have very strong fundamentals about Mathematics if I wanted to learn Machine Learning, which I picked up just 4 days ago! Isn’t that interesting, yes you need to pivot and change course to learn whatever it takes. I don’t believe in learning by not going into the depths.
 
