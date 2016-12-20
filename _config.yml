@@ -12,5 +12,4 @@ encoding: utf-8
 permalink: /:index.html
 
 kramdown:
-    parse_block_html: true
-    
+  parse_block_html: true
