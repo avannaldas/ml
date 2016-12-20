@@ -4,8 +4,7 @@ title:  "Machine Learning and Mathematics"
 date: 2016-08-08
 ---
 
-
-<to do: tone down to mean mastering the basics is not the only way, one could do with min required mathematics and pursue ML, it’s about choice/way of learning>
+(to do: tone down to mean mastering the basics is not the only way, one could do with min required mathematics and pursue ML, it’s about choice/way of learning)
 
 I’ve just started looking into Machine Learning. I am not saying that I’ve started learning it because when I was going through the first lesson, I stumbled upon mathematical expressions that I’ve never seen before! And that’s where I took a U turn to first learn the required Mathematics before I get back to Machine Learning. I hated mathematics so much in my school that I didn’t study it after my Junior College. Well, just kidding, my career path is a little strange… I didn’t elect Mathematics for different reasons, not that I hate it that much :)
 
