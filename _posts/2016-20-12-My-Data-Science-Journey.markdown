@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Data Science Journey"
-date: 20-Dec-2016
+date: 2016-20-12
 ---
 
 I am Abhijit Annaldas, a Software Engineer who recently fell in serious love with Data Science. I've been learning about Mathematics, Machine Learning and Deep Learning a lot lately. And sometimes for a change I read/watch about random physics/science topics ranging from astronomical concepts to some basic physics. I recently came to know about Feynman Technique, so I thought I'll share what I learn through this blog. I'm planning to get my hands dirty with things I read/learn about and use github as my playground. Both, for doing and talking.
