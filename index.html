@@ -1,6 +1,17 @@
 ---
 layout: default
 ---
+<h5>Recent Posts...</h5>
+<table style="margin-bottom: 0px">
+    {% for post in site.posts %}
+        <tr>
+            <td>{{ post.date | date: "%d-%b-%y" }}</td>
+            <td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+        </tr>
+    {% endfor %}
+</table><br>
+
+<!--
 <div class="container">
     <div class="row">
         <div class="eleven columns" style="text-align:justify;">
@@ -20,3 +31,4 @@ layout: default
         </div>
     </div>
 </div>
+-->
