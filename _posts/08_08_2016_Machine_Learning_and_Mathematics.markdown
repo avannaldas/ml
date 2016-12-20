@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Machine Learning and Mathematics"
-date: 10-08-2016
+date: 10-Aug-2016
 ---
 
 
