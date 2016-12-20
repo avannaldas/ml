@@ -1,22 +1,16 @@
-name: My Data Science Journey
+# Site settings
+title: Abhijit Annaldas
 description: For the love of data and machines that can learn
-url: https://avannaldas.github.io
-
 twitter_username: avannaldas
 github_username:  avannaldas
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 encoding: utf-8
 
 permalink: /:index
 
 kramdown:
     parse_block_html: true
-
-gems:
-   - jekyll-mentions
-   - jemoji
-   - jekyll-redirect-from
-   - jekyll-sitemap
-   - jekyll-feed
+    
