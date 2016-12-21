@@ -8,6 +8,7 @@ Mathematics is a fascinating subject. That was not true for me just two days ago
 So when I started learning Mathematics 2 days ago, I realized and learnt a few things from the Math gurus who share their knowledge with the world through internet (some useful links at the end of page). I started loving Mathematics and now learning it in a way I have never imagined. The way mathematics is learned is the reason people hate it. Mathematics is abstract in nature, is a wrong belief people hold in general. On the flip side it is true that the way people learn/have been taught is abstract in nature.
 
 Learning mathematics can be very fun. Mathematics is all around us. Here are a few more important dis-beliefs about Mathematics:
+
   1. Some people have inherent capabilities to do well in math, a math person
   2. Mathematics can never be related to real life and learned with analogies
   3. Mathematics is just abstract
@@ -16,6 +17,7 @@ Learning mathematics can be very fun. Mathematics is all around us. Here are a f
   6. Mathematics is all about numbers, rules, methods
 
 There are tons of such dis-beliefs about mathematics which makes people treat mathematics differently and keep it at bay. To learn mathematics its important to note a few points:
+
   1. Anyone can learn mathematics and start loving it, provided the learning approach is changed
   2. Mathematics is a study of patterns (as Mathematician Keith Devlin says)
   3. It’s very important to understand and internalize the concepts rather than memorizing the formulae, procedures and methods of solving something
@@ -25,6 +27,7 @@ There are tons of such dis-beliefs about mathematics which makes people treat ma
   7. If you have ever solved a mathematical problem in a totally different way, even if it was accidentally that you realized oh, it can be solved this way. You can imagine the satisfaction and happiness it gives to find a pattern/pathway to solution that wasn’t taught in class or described in the textbook you were referring to. This is how the learning should be, naturally and intuitively. And there would never be another boring math problem!
  
 Below are some quick references where you can start learning mathematics and change your perception about it:
+
   1. [How you can be good at math, and other surprising facts about learning | Jo Boaler | TEDxStanford](https://www.youtube.com/watch?v=3icoSeGqQtY)
   2. [Five Principles of Extraordinary Math Teaching | Dan Finkel | TEDxRainier](https://www.youtube.com/watch?v=ytVneQUA5-c)
   3. [Introduction to Mathematical Thinking – Coursera.org](https://www.coursera.org/learn/mathematical-thinking)
