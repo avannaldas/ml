@@ -28,7 +28,7 @@ There are tons of such dis-beliefs about mathematics which makes people treat ma
  
 Below are some quick references where you can start learning mathematics and change your perception about it:
 
-  1. [How you can be good at math, and other surprising facts about learning | Jo Boaler | TEDxStanford](https://www.youtube.com/watch?v=3icoSeGqQtY)
-  2. [Five Principles of Extraordinary Math Teaching | Dan Finkel | TEDxRainier](https://www.youtube.com/watch?v=ytVneQUA5-c)
+  1. [How you can be good at math, and other surprising facts about learning - Jo Boaler - TEDxStanford](https://www.youtube.com/watch?v=3icoSeGqQtY)
+  2. [Five Principles of Extraordinary Math Teaching - Dan Finkel - TEDxRainier](https://www.youtube.com/watch?v=ytVneQUA5-c)
   3. [Introduction to Mathematical Thinking – Coursera.org](https://www.coursera.org/learn/mathematical-thinking)
   4. [Ted Talks about Mathematics](http://www.ted.com/topics/math)
