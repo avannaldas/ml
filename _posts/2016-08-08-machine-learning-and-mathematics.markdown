@@ -15,6 +15,7 @@ Well, we are lucky we have numerous structured online learning resources, open-s
 But my baby steps towards Machine Learning started with a simple Google search for “Mathematics for Machine Learning“.. and there you go see Internet getting everything you need on to your plate. The only thing is you need to ask the right questions.
 
 Here is a quick checklist of the topics you need to learn in Mathematics in that order before you get into Machine Learning…
+
 - Vectors
 - Matrices
 - Calculus Basics
@@ -24,7 +25,8 @@ Here is a quick checklist of the topics you need to learn in Mathematics in that
 Since it took me a few days to understand all about this when I started looking into Machine Learning, I hope this helps you have a good head start. Please do share your inputs about your learning stories, because human learning is all about sharing and helping each other!
 
 Some additional links that I found useful…
-- http://fastml.com/math-for-machine-learning/
-- https://www.youtube.com/user/khanacademy/playlists
-- http://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/
-- https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/about
+
+- [Math for ML](http://fastml.com/math-for-machine-learning/)
+- [Khan Academy](https://www.youtube.com/user/khanacademy/playlists)
+- [Mathematics of ML - MIT](http://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/)
+- [How to learn math - Stanford](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/about)
