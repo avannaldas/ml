@@ -9,7 +9,7 @@ markdown: kramdown
 highlighter: rouge
 encoding: utf-8
 
-permalink: /:index.html
+permalink: /:title.html
 
 kramdown:
   parse_block_html: true
