@@ -3,7 +3,17 @@ layout: page
 title: All Posts
 permalink: /all-posts/
 ---
-<div class="container">
+<table style="margin-bottom: 0px">
+	{% for post in site.posts %}
+		<tr>
+			<td>{{ post.date | date: "%d-%b-%y" }}</td>
+			<td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+		</tr>
+	{% endfor %}
+</table>
+<br /><br />
+
+<!--<div class="container">
 	<div class="row">
 		<div class="eleven columns">
 			<table style="margin-bottom: 0px">
@@ -16,5 +26,4 @@ permalink: /all-posts/
 			</table><br>
 		</div>
 	</div>
-	</div>
-</div>
+</div>-->
