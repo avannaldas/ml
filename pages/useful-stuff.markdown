@@ -4,6 +4,7 @@ title: Useful Data Science Stuff
 permalink: /useful-stuff/
 ---
 
+This page links to useful data science learning resources. I'll keep updating this page, as and when I find something useful to add. Do check back occasionally.
 
 Data Science
   1. [Introduction to Data Analtyics - NPTEL](http://nptel.ac.in/courses/110106064/1){:target="_blank"}
