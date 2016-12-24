@@ -1,0 +1,14 @@
+---
+layout: page
+title: All Posts
+permalink: /all-posts/
+---
+<table style="margin-bottom: 0px">
+	{% for post in site.posts %}
+		<tr>
+			<td>{{ post.date | date: "%d-%b-%y" }}</td>
+			<td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+		</tr>
+	{% endfor %}
+</table>
+<br /><br />
