@@ -2,16 +2,10 @@
 layout: default
 ---
 
-<div class="container">
-  <div class="row">
-    <div class="eleven columns">
-      <h3>{{ page.title }}</h3>
-      <h6>{{ page.date | date: "%d-%b-%Y" }}</h6>
-    </div>
-  </div>
-  <div class="row">
-    <div class="eleven columns" style="text-align:justify;">
-      {{ content }}
-    </div>
-  </div>
+<div class="row">
+	<div class="col-sm-12" style="text-align:justify;">
+		<h3>{{ page.title }}</h3>
+		<h4>{{ page.date | date: "%d-%b-%Y" }}</h4>
+		{{ content }}
+   </div>
 </div>
