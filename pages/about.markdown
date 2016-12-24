@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Please checkout my [about.me](http://about.me/avannaldas) page
+Please checkout my <A href="http://about.me/avannaldas" target="_blank">about.me</A> page
