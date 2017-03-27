@@ -4,7 +4,7 @@ title:  "My first Machine Learning Hackathon"
 date: 2017-03-28
 ---
 
-
+<br /><br />
 
 #### *tl;dr*
 > Sharing my hackathon participation experience: Hackathons are the best way to practice and get hands on experience. They bring out the best in us everytime, no exceptions. Look for hackathons that work for you, it's better to work along the people rather than solving in silos (for learning at least)
