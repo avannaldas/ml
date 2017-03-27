@@ -3,9 +3,10 @@ layout: post
 title:  "My first Machine Learning Hackathon"
 date: 2017-03-28
 ---
- 
- 
-#### TL;DR
+
+
+
+#### *tl;dr*
 > Sharing my hackathon participation experience: Hackathons are the best way to practice and get hands on experience. They bring out the best in us everytime, no exceptions. Look for hackathons that work for you, it's better to work along the people rather than solving in silos (for learning at least)
 
 Hackathons magically raise the enthusiasm and excitement of solving a problem. It takes the game altogether to a different level. Last week I solved my first machine learning problem for an online hackathon. I think hackathons bring the best out of us. 
