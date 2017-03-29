@@ -14,3 +14,7 @@ permalink: /:title.html
 
 kramdown:
   parse_block_html: true
+
+gems:
+  - jekyll-seo-tag
+  
