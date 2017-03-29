@@ -1,5 +1,5 @@
 <!--Head-->
-<title>{% if page.title %}{{ page.title - site.title }}{% else %}{{ site.title }}{% endif %}</title>
+<title>{% if page.title %}{{ page.title + ' - ' + site.title }}{% else %}{{ site.title }}{% endif %}</title>
 <!--
 <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}" />
 <script href="{{ "/script/jquery.min.js" | prepend: site.baseurl }}"></script>
