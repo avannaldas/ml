@@ -5,13 +5,9 @@ permalink: /all-posts/
 ---
 <div class="row">
 	<div class="col-sm-10" style="text-align:justify;">
-		<table>
-			{% for post in site.posts %}
-				<tr>
-					<td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
-					<td style="padding-left:20px">{{ post.date | date: "%d-%b-%Y" }}</td>
-				</tr>
-			{% endfor %}
-		</table>
+		{% for post in site.posts %}
+			<span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+			<span style="padding-left:20px">{{ post.date | date: "%d-%b-%Y" }}</span>
+		{% endfor %}
 	</div>
 </div>
