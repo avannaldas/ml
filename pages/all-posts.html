@@ -6,5 +6,5 @@ permalink: /all-posts/
 {% for post in site.posts %}
 <span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
 <span style="padding-left:20px">{{ post.date | date: "%d-%b-%Y" }}</span>
-<br />
+<br /><br />
 {% endfor %}
