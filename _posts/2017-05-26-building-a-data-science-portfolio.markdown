@@ -17,13 +17,13 @@ GitHub is no doubt a nerds portfolio! Consider pushing most of your work to GitH
 Some tips for good presentation of repositories (portfolio)...
 * Each project should have a different repository (needless to say, but I've seen people stuffing code into same repo with a blanket name)
 * A neat and short 'read me' for each repository explaining a problem statement and the solution in short, preferably a single page at max.
-* Apart from code and introductory read me, document the solution approach in detail. The purpose of this would be to show how the solution was built. It should include...
-    - Problem Statement
+* Apart from code and introductory read me, document the solution approach in detail. The purpose of this is to show how the solution was built. It should include...
+    - Problem statement
     - Info about dataset
     - Visualizations of data
     - train, cross validation, test and predict performance charts
     - accuracy, metrics and results
-    - end notes: challenges faced, possible enhancements, etc.
+    - closing notes - challenges faced, possible enhancements, etc.
 * If code uses a jupyter notebook, code and the solution approach detail can be neatly presented together.
 * Last but not the least, keep sharing your knowledge through a blog (as I'm doing!)
 
