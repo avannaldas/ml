@@ -46,9 +46,7 @@ At each step, after the tree is built, the coefficients of the J leaves are upda
 
 _give better explanation for GBDT_
 
----Start-Formal Definition
-
----End-Formal Definition
+_formal definition_
 
 
 
