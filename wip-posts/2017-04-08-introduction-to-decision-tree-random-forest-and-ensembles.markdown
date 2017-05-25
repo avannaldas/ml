@@ -44,9 +44,9 @@ Gradient Boosted Decision Trees accept 3 parameters viz., (1) number of terminal
 
 At each step, after the tree is built, the coefficients of the J leaves are updated before updating the resulting hypothesis based on the shrinkage rate.
 
-_give better explanation for GBDT_
+_give more explanation on GBDT_
 
-_formal definition_
+_GBDT formal definition_
 
 
 
