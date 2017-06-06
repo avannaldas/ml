@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction to Decision Trees, Random Forest and Ensemble Learning Methods in Machine Learning"
+title:  "Introduction to Ensemble Learning Methods in ML"
 date: 2017-06-03
 ---
 
