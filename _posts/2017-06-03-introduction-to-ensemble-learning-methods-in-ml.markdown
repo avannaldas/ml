@@ -27,10 +27,10 @@ Some of the popular ensemble methods are <A href="https://en.wikipedia.org/wiki/
 
 ## Further Learning
 * <A href="https://www.khanacademy.org/computing/computer-science/informationtheory" target="_blank">Information Theory</A>
-* <A href="https://en.wikipedia.org/wiki/Entropy_(information_theory))" target="_blank">Information Entropy</A>
-* <A href="https://en.wikipedia.org/wiki/Information_gain_in_decision_trees)" target="_blank">Information Gain</A>
-* <A href="https://en.wikipedia.org/wiki/Ensemble_learning)" target="_blank">Ensemble Learning</A>
-* <A href="https://en.wikipedia.org/wiki/Gradient_boosting)" target="_blank">Gradient Boosting</A>
+* <A href="https://en.wikipedia.org/wiki/Entropy_(information_theory)" target="_blank">Information Entropy</A>
+* <A href="https://en.wikipedia.org/wiki/Information_gain_in_decision_trees" target="_blank">Information Gain</A>
+* <A href="https://en.wikipedia.org/wiki/Ensemble_learning" target="_blank">Ensemble Learning</A>
+* <A href="https://en.wikipedia.org/wiki/Gradient_boosting" target="_blank">Gradient Boosting</A>
 
 ## Mentioned in post
 * <A href="https://en.wikipedia.org/wiki/Andrew_Ng" target="_blank">Andrew Ng</A>
