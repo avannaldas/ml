@@ -6,7 +6,7 @@ date: 2017-06-03
 
 Machine Learning is advancing at a rapid pace day by day. It never ceases to surprise with newer breakthroughs from time to time. Be it IBM Watson's jeopardy win or a recent win of DeepMind's Alpha Go over a human expert in the game of Go. It is certainly the next revolution in the history of mankind after industrial revolution. Andrew Ng, best known for his introductory Machine Learning course, has rightly said - AI is the new electricity! It comes with unimaginable opportunities, only to be discovered by time.
 
-A significant number of data science competition <A href="https://www.import.io/post/how-to-win-a-kaggle-competition/" target="_blank">winning solutions</A> today are built using various advanced forms of Decision Trees (or Ensembles of Random Forest techniques to be more correct). Ensembles in ML context can be understood in one liner as - combination of different decision trees/random forest predictors.
+A significant number of data science competition winning solutions today are built using various advanced forms of Decision Trees (or Ensembles of Random Forest techniques to be more correct). Ensembles in ML context can be understood in one liner as - combination of different decision trees/random forest predictors.
 
 In this post, I'll briefly introduce about some basics about Decision Trees, Random Forest and Ensemble Methods.
 
@@ -39,3 +39,6 @@ Some of the popular ensemble methods are <A href="https://en.wikipedia.org/wiki/
 * <A href="https://github.com/Microsoft/LightGBM" target="_blank">LightGBM</A>
 * <A href="http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/gbm.html" target="_blank">H2O</A>
 * <A href="https://twitter.com/andrewyng/status/735874952008589312?lang=en" target="_blank">AI is the new electricity!</A> tweet by Andrew Ng
+* <A href="https://www.import.io/post/how-to-win-a-kaggle-competition/" target="_blank">Blog post about winning Kaggle competitions</A>
+* <A href="https://en.wikipedia.org/wiki/AlphaGo" target="_blank">AlphaGo</A>
+* <A href="https://en.wikipedia.org/wiki/Watson_(computer)#Jeopardy.21" target="_blank">IBM Watson winning jeopardy</A>
