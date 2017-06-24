@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://abhijitannaldas.com/</loc>
+  <lastmod>2017-06-23T11:29:16+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://abhijitannaldas.com/all-posts/</loc>
+  <lastmod>2017-06-23T11:29:16+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://abhijitannaldas.com/projects/</loc>
+  <lastmod>2017-06-23T11:29:16+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://abhijitannaldas.com/useful-stuff/</loc>
+  <lastmod>2017-06-23T11:29:16+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://abhijitannaldas.com/discuss/</loc>
+  <lastmod>2017-06-23T11:29:16+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://abhijitannaldas.com/applied-vs-theoretical-machine-learning.html</loc>
+  <lastmod>2017-06-23T11:29:16+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://abhijitannaldas.com/introduction-to-ensemble-learning-methods-in-ml.html</loc>
+  <lastmod>2017-06-23T11:29:16+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://abhijitannaldas.com/building-a-data-science-portfolio.html</loc>
+  <lastmod>2017-06-23T11:29:16+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://abhijitannaldas.com/my-first-machine-learning-hackathon.html</loc>
+  <lastmod>2017-06-23T11:29:16+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://abhijitannaldas.com/my-data-science-journey.html</loc>
+  <lastmod>2017-06-23T11:29:16+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://abhijitannaldas.com/mathematical-thinking.html</loc>
+  <lastmod>2017-06-23T11:29:16+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://abhijitannaldas.com/mathematics-for-machine-learning.html</loc>
+  <lastmod>2017-06-23T11:29:16+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>
