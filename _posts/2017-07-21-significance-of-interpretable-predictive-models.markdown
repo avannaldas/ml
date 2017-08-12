@@ -18,4 +18,4 @@ If the business knows what does it take (patterns learned by model) for a custom
 
 In this case, the underlying patterns and what model learned can be visualized in the form of a decision tree explaining a series of events/criteria that led to this outcome, or at a much higher level, giving out reasoning in natural language. 
 
-Predictive models today are interpretable to a varied extent, based on the nature of underlying model. Some of the models aren't interpretable at all, like deep neural networks. In next post, I'll write a quick intro about interpretability of few popular algorithms.
+Predictive models today are interpretable to a varied extent, based on the nature of underlying model. Some of the models aren't interpretable at all, like deep neural networks.
