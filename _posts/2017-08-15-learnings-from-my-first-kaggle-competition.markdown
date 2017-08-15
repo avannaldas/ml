@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learnings from my first kaggle competition"
-date: 2016-08-08
+date: 2017-08-15
 ---
 
 My first Kaggle competition <A href="https://www.kaggle.com/c/instacart-market-basket-analysis/" target="_blank">Instacart Market Basket Analysis</A> has concluded. Though my ranking wasn't impressive, I've learned a lot in this competition, from everyone. I'm happy that I know quite a few things after this competition.
