@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learnings from my first kaggle competition"
+title:  "Learning from my first kaggle competition"
 date: 2017-08-15
 ---
 
