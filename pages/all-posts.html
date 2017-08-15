@@ -4,7 +4,7 @@ title: All Posts
 permalink: /all-posts/
 ---
 {% for post in site.posts %}
+<span style="padding-left:5px;padding-right:25px">{{ post.date | date: "%d-%b-%Y" }}</span>
 <span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
-<span style="padding-left:20px">{{ post.date | date: "%d-%b-%Y" }}</span>
 <br />
 {% endfor %}
