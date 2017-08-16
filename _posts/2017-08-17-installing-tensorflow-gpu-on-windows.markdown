@@ -3,6 +3,11 @@ layout: post
 title:  "Installing Tensorflow-GPU on Windows"
 date: 2017-08-17
 ---
+
+To use tensorflow library on GPU, NVIDIA CUDA Toolkit and cuDNN libraries need to be first installed. Installing `tensorflow-gpu` is straight forward. Installing the NVIDIA CUDA Toolkit and cuDNN is slightly tricky, we need to ensure a couple of things so that CUDA toolkit works that tensorflow-gpu uses under the hood.
+
+Let's begin...
+
 1. Download <A href="https://developer.nvidia.com/cuda-downloads" target="_blank">CUDA Toolkit 8.0</A> and <A href="https://developer.nvidia.com/cudnn" target="_blank">cuDNN v5.1 for CUDA Toolkit 8.0</A> from NVIDIA Developer portal
 
 2. Install CUDA Toolkit 8.0 from NVIDIA.
@@ -27,6 +32,5 @@ date: 2017-08-17
     * `pip install tflearn`
     * `conda install -c derickl tflearn`
 
-Official tensorflow documentation guide for <A href="https://www.tensorflow.org/install/install_windows#requirements_to_run_tensorflow_with_gpu_support" target="_blank">tensorflow-gpu setup</A>
-
+You can find the official tensorflow documentation guide for tensorflow-gpu setup <A href="https://www.tensorflow.org/install/install_windows#requirements_to_run_tensorflow_with_gpu_support" target="_blank">here</A>.
 
