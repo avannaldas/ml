@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Machine Learning in one hour!
 permalink: /machine-learning-in-one-hour/
 ---
