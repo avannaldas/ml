@@ -110,7 +110,11 @@ If you are considering the field of Machine Learning/Data Science seriously and 
 
 If you are sure, I have one advice for you. **_Never ever ever give up or think if its all worth it_**. It's definitely worth it and I can say that I have walked that path since last 18 months, every day, every weekend and every spare hour of my time. The road ahead to master data science isn't easy. You'll need to learn lot of subjects. Juggle between different learning priorities. Even after learning a lot you'll still find things that you don't know. New concepts/techniques that you keep discovering might make you feel that you still don't know a lot of things and theres a lot more ground to cover. This is common. Just stick with it. Set big goals, plan for small tasks and just focus on task at hand. If something new comes up, just scribble it down in your diary and get back to it later.
 
-I hope this guide has helped you and it has made it easy to started on your own learning adventure.
+If you have been reading all the way till here, I appreciate your effort and the time you have invested. I hope this guide has made it easy to started on your own learning adventure.
 
-If this guide has helped you get started with Machine Learning and helped you take a decision about considering the field, Please Please leave a comment or reach me at avannaldas .a.t. hotmail .d.o.t. com. I'd love to hear from you and it'll give me immense satisfaction to know that this has helped you.
+At some later point of time, if you think this guide has made some difference in your learning adventure, please please come back and leave a comment here. Or reach me at avannaldas .at. hotmail .dot. com. I'd love to hear from you and it'll give me immense satisfaction to know that this has helped you.
 
+This was my biggest write up ever, I had spent many hours writing, editing and reviewing this. If you see any mistakes and things that can be improved, please let me know in comments or via email. I'll fix it the earliest I can and will attribute it to you. This will help everyone who reads this. 
+
+Thanks Again!
+All the best!
