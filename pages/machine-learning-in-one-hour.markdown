@@ -36,7 +36,7 @@ _If you want to get a taste of what is Machine Learning about and what it could 
 
 ### Python Environment setup
 1. Python
-   * Python.org [Download](https://www.python.org/downloads/), [Learn](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+   * Python.org [Download](https://www.python.org/downloads/), [Learn](https://www.datacamp.com/courses/intro-to-python-for-data-science) OR
    * Anaconda [Download](https://www.continuum.io/downloads), [Learn](https://docs.continuum.io/anaconda/)
 2. Code Editor / IDE
    * Visual Studio Code (Search and install python extension, pick the most downloaded one)
