@@ -11,18 +11,18 @@ There are two main approaches to learn Machine Learning. Theoretical Machine Lea
 ### Theoretical Machine Learning
 Below are the subjects that you can start with (ordered as I think they are appropriate). For theoretical approach of learning Machine Learning, below subjects should be studied with great rigour and in depths.
 
-  1. Linear Algebra - [MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) | [IISc. Bangalore](http://nptel.ac.in/courses/111108066)
-  2. Calculus - [Basics, Coursera](https://www.coursera.org/learn/calculus1) | [Advanced, Coursera](https://www.coursera.org/learn/advanced-calculus)
+  1. Linear Algebra - [MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/), [IISc. Bangalore](http://nptel.ac.in/courses/111108066)
+  2. Calculus - [Basics, Coursera](https://www.coursera.org/learn/calculus1), [Advanced, Coursera](https://www.coursera.org/learn/advanced-calculus)
   3. Probability and Statistics - [MIT](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
-  4. Statistical Learning Theory - [MIT](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-statistical-learning-theory-and-applications-spring-2003/) | [Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
-  5. Machine Learning - [Coursera](https://www.coursera.org/learn/machine-learning) | [Caltech](https://work.caltech.edu/telecourse)
+  4. Statistical Learning Theory - [MIT](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-statistical-learning-theory-and-applications-spring-2003/), [Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+  5. Machine Learning - [Coursera](https://www.coursera.org/learn/machine-learning), [Caltech](https://work.caltech.edu/telecourse)
   6. Programming language to implement machine learning research ideas.
 
 The way forward could be reading research papers, implementing research work/new algortihms, developing expertise and picking a specialization further on to the research path.
 
 ### Applied Machine Learning
 1. Good understanding of the basics of above subjects (1 to 4).
-2. Machine Learning (imp concepts explained below): [Coursera](https://www.coursera.org/learn/machine-learning) | [Caltech](https://work.caltech.edu/telecourse)
+2. Machine Learning (imp concepts explained below): [Coursera](https://www.coursera.org/learn/machine-learning), [Caltech](https://work.caltech.edu/telecourse)
 3. [Python](https://www.datacamp.com/courses/intro-to-python-for-data-science) or R Programming Language, as per your preference.
 4. Learn to use popular machine learning, data manipulation and visualization libraries in the chosen programming language. I personally use Python programming language, hence I'll elaborate on that below.
     1. Must know Python Libraries: [numpy](https://www.datacamp.com/community/tutorials/python-numpy-tutorial), [pandas](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python), [scikit-learn](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python), [matplotlib](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python)
@@ -36,8 +36,8 @@ _If you want to get a taste of what is Machine Learning about and what it could 
 
 ### Python Environment setup
 1. Python
-   * Python.org [Download](https://www.python.org/downloads/) | [Learn](https://www.datacamp.com/courses/intro-to-python-for-data-science)
-   * Anaconda [Download](https://www.continuum.io/downloads) | [Learn](https://docs.continuum.io/anaconda/)
+   * Python.org [Download](https://www.python.org/downloads/), [Learn](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+   * Anaconda [Download](https://www.continuum.io/downloads), [Learn](https://docs.continuum.io/anaconda/)
 2. Code Editor / IDE
    * Visual Studio Code (Search and install python extension, pick the most downloaded one)
    * Notepad++
