@@ -95,7 +95,11 @@ Fun fact is that a majority (over 90% I guess) of all the machine learning probl
 
 But, there are some set of problems that cannot be solved using above techniques. Problems like image classification, image recognition, natural language processing, audio processing, etc. are solved using a technique called Deep Learning. Before starting deep learning, I believe it's essential to master all of the above concepts first. 
 
-Coursera has a great [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning). It was recently launched by Andrew Ng. An online book [deeplearningbook.org](http://www.deeplearningbook.org/) is also a great book to learn from.
+Good Deep Learning resources...
+* [Fast.ai](http://www.fast.ai/) -- thanks for the suggestion [Pranay Tiwari](https://www.linkedin.com/in/pranay-tiwari-47a49048/)!
+* [neuralnetworksanddeeplearning.com - an online book, stresses on theory and fundamentals](http://neuralnetworksanddeeplearning.com/)
+* [Deep Learning Specialization at Coursera by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+* [deeplearningbook.org - an online book](http://www.deeplearningbook.org/)
 
 If you know deep learning concepts and want to get your hands dirty, some popular Deep Learning Libraries are: [Keras](https://keras.io/), [CNTK](https://github.com/Microsoft/CNTK), [Tensorflow](https://github.com/tensorflow/tensorflow), [tflearn](https://github.com/tflearn/tflearn), [sonnet](https://github.com/deepmind/sonnet), [pytorch](https://github.com/pytorch/pytorch), [caffe](https://github.com/BVLC/caffe), [Theano](https://github.com/Theano/Theano)
 
