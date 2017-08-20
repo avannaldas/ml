@@ -116,7 +116,7 @@ If you are sure, I have one advice for you. **_Never ever ever give up or think 
 ### Thank You!
 If you have been reading all the way till here, I appreciate your effort and the time you have invested. I hope this guide was useful to you and has made it little easier for you to get started on your own learning adventure. At some later point of time, if you think this guide has made some difference in your learning adventure, please please come back and leave a comment here. Or reach me at avannaldas .at. hotmail .dot. com. I'd love to hear from you. It'll give me immense satisfaction to know that this has helped you, and my effort in putting this together was worthwhile.
 
-This was my biggest write up ever. I have spent many hours writing, editing and reviewing this. If you see any mistakes and things that can be improved, please let me know in comments or via email. I'll fix it the earliest I can and will attribute it to you. This will help everyone who reads this. 
+This was my biggest write up ever. I have spent many hours writing, editing and reviewing this. If you see any mistakes or things that can be improved, please let me know in comments or via email. I'll fix it the earliest I can and will attribute it to you. This will help everyone who reads this. 
 
 Thanks Again!
 
