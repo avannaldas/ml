@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Machine Learning in one hour!
-permalink: /machine-learning-in-one-hour/
+permalink: /getting-started-with-machine-learning-in-one-hour/
 ---
 I was planning agenda for my one hour talk. Conveying the learning paths, setting up the environment and explaining the important machine learning concepts finally made it to agenda after a lot of contemplation and thought. I initially thought about various ways this talk could have been done including - hands on python with linear regression, explaining linear regression in depth, or just sharing my learning journey that I went through past 18 months almost. But I wanted to start something that leaves the audience with lots of new information and questions to work on. Create curiosity and interest in them. And I guess I was able to do that to a decent level. Basically, to get them started with Machine Learning. That's how this guide ended up being called _Machine Learning in one hour_.
 
