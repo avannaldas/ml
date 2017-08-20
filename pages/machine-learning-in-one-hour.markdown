@@ -3,8 +3,9 @@ layout: post
 title: Machine Learning in one hour!
 permalink: /machine-learning-in-one-hour/
 ---
+I was planning agenda for my one hour talk. Conveying the learning paths, setting up the environment and explaining the important machine learning concepts finally made it to agenda after a lot of contemplation and thought. I initially thought about various ways this talk could have been done including - hands on python with linear regression, explaining linear regression in depth, or just sharing my learning journey that I went through past 18 months almost. But I wanted to start something that leaves the audience with lots of new information and questions to work on. Create curiosity and interest in them. And I guess I was able to do that to a decent level. Basically, to get them started with Machine Learning. That's how this guide ended up being called _Machine Learning in one hour_.
 
-This is a Machine Learning getting started guide. This guide initially started as an agenda for my one hour talk on Machine Learning Jumpstart. I thought it'll be helpful to complete it to make this a full learning guide. And here it is. I'm very happy the way this ended up taking shape and I'm excited to share this!
+Initially my agenda for the talk briefly listed the learning paths, key concepts and all the information in terms of bulleted points. Something which was structured for myself for the talk. And it looked great introductory learning path. Hence I completed that agenda/notes to a machine learning getting started guide and here it is. I'm very happy the way this ended up taking shape and I'm excited to share this!
 
 There are two main approaches to learn Machine Learning. Theoretical Machine Learning approach and Applied Machine Learning approach. I've written about it in my earlier [blog post](http://abhijitannaldas.com/applied-vs-theoretical-machine-learning.html).
 
@@ -45,12 +46,12 @@ _If you want to get a taste of what is Machine Learning about and what it could 
 3. Installing python packages
    * [Managing packages with pip, python's native tool](https://docs.python.org/3/installing/index.html): `pip install <package-name>`
    * [Managing packages with anaconda](https://conda.io/docs/using/pkgs.html): `conda install <package-name>`
-4. Managing Python (native) virtual environments
+4. Managing Python (native) virtual environments (if multiple environments are needed)
    * Create virtual environment: `python -m venv c:\path\to\env\folder`
    * Command help: `python -m venv -h`
    * Switch environments: `activate.bat` script located in the virtual environment folder
    * Python (native) virtual environments [documentation](https://docs.python.org/3/library/venv.html)
-5. Managing Anaconda virtual environments
+5. Managing Anaconda virtual environments (if multiple environments are needed)
    * Default conda environment - `root`
    * List available environments - `conda env list`
    * Create new environment - `conda create --name environment_name`
