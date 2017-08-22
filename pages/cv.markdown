@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Abhijit's CV
-permalink: /CV/
+permalink: /cv/
 ---
 <hr />
 <div style="text-align:center">
