@@ -12,7 +12,7 @@ permalink: /cv/
 <hr />
 <div class="row" style="text-align:center">
 <div class="col-sm-12" style="text-align:center">
-<sub><I>If something is broken, it's highly likely that its momentary. Probably I am updating my CV at the moment.</I></sub>
+<span style="font-size:10pt;font-style:italics;color:silver"><i>If something is broken, it’s highly likely that its momentary. Probably I am updating my CV at the moment.</i></span>
 </div>
 </div>
 <br />
