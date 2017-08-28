@@ -30,7 +30,7 @@ The way forward could be reading research papers, implementing research work/new
 6. Other popular python libraries: [LightGBM](https://github.com/Microsoft/LightGBM), [XGBoost](https://github.com/dmlc/xgboost), [CatBoost](https://catboost.yandex/)
 
 ### Quick Start Option
-_If you want to get a taste of what is Machine Learning about and what it could be like. You can start this way for experimenting, getting quick hands on. Not an ideal way if you want to get serious about Data Science in long run._
+If you want to get a taste of what is Machine Learning about and what it could be like. You can start this way for experimenting, getting quick hands on. Not an ideal way if you want to get serious about Data Science in long run.
 1. Know Machine Learning Concepts Overview (below)
 2. Learn Python or R
 3. Understand and learn to use popular libraries in your language of choice
