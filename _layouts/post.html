@@ -5,8 +5,10 @@ layout: default
 <div class="row">
 	<div class="col-sm-12" style="text-align:justify;">
 		<h3>{{ page.title }}</h3>
-		<h4>{{ page.date | date: "%d-%b-%Y" }}</h4>
+		<i style="color:gray">{{ page.date | date: "%d-%b-%Y" }}</i>
+		<hr />
 		{{ content }}
+		<br />
    </div>
 </div>
 <div class="row">
