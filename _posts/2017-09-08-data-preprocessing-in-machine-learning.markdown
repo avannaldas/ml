@@ -25,11 +25,8 @@ In this post, I'm not explaining preprocessing techniques, but sharing a few tip
 
 ![alt text][LEOHE]
 
-
-
-
+<br /><br /><br />
 Machine Learning Practitioners/Data Scientists - Please share your thoughts, anything you wanna add or do differently/better.
-
-
+<br /><br /><br />
 
 [LEOHE]: https://github.com/avannaldas/avannaldas.github.io/raw/master/uploads/Label-Encoder-vs-One-Hot-Encoder.png "LabelEncoder vs OneHotEncoder"
