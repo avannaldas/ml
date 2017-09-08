@@ -23,10 +23,6 @@ In this post, I'm not explaining preprocessing techniques, but sharing a few tip
 
 * Related Attributes - If there multiple attributes with same information with different granularity, like city and state, it's better to keep columns like state and delete city column. Additionally, keeping both columns and assessing feature importance might help in eliminating one column.
 
-![alt text][LEOHE]
-
-<br /><br /><br />
-Machine Learning Practitioners/Data Scientists - Please share your thoughts, anything you wanna add or do differently/better.
-<br /><br /><br />
-
-[LEOHE]: https://github.com/avannaldas/avannaldas.github.io/raw/master/uploads/Label-Encoder-vs-One-Hot-Encoder.png "LabelEncoder vs OneHotEncoder"
+<p style="text-align:center"><img src="https://github.com/avannaldas/avannaldas.github.io/raw/master/uploads/Label-Encoder-vs-One-Hot-Encoder.png" alt="alt text" title="LabelEncoder vs OneHotEncoder" style="max-width:850px"></p>
+<p>Machine Learning Practitioners/Data Scientists - Please share your thoughts, anything you wanna add or do differently/better.</p>
+<br />
