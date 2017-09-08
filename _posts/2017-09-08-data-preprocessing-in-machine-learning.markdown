@@ -23,11 +23,13 @@ In this post, I'm not explaining preprocessing techniques, but sharing a few tip
 
 * Related Attributes - If there multiple attributes with same information with different granularity, like city and state, it's better to keep columns like state and delete city column. Additionally, keeping both columns and assessing feature importance might help in eliminating one column.
 
-| Label Encoder | One Hot Encoder |
-|-------------------|---------------------|
-| Numeric representation, ordinals | Binary representation |
-| Loses uniqueness of values, single dimension in vector space | Individual values expressed as a different dimension in orthogonal vector space |
-| Suitable with categorical values that are ordinal in nature, like – fog_level (low, medium, high) | Suitable with non-ordinal types of categorical attributes, like – car_type (hatchback, sedan, SUV, etc.) |
-| Label encoded categorical attributes don’t pose any further challenges | One hot encoded categorical attributes might dramatically increase the feature space (curse of dimensionality). When One hot encoding is used, it’s often followed by PCA to tackle high-dimensionality |
+![alt text][LEOHE]
+
+
+
 
 Machine Learning Practitioners/Data Scientists - Please share your thoughts, anything you wanna add or do differently/better.
+
+
+
+[LEOHE]: https://github.com/avannaldas/avannaldas.github.io/raw/master/uploads/Label-Encoder-vs-One-Hot-Encoder.png "LabelEncoder vs OneHotEncoder"
