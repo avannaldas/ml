@@ -16,16 +16,16 @@
     width: auto;
 }
 
-.mtable table {
+table {
   border-spacing: 0px;
   border-collapse: separate;
   padding: 0px;
 }
 
-.mtable table td {
+table td {
   padding: 10px;
 }
 
-.mtable table tr:nth-child(even) {
+table tr:nth-child(even) {
   background: #f2f2f2;
 }
