@@ -8,7 +8,8 @@ date: 2017-09-08
 
 K-Means (K-Means Clustering) and KNN (K-Nearest Neighbour) are often confused with each other in Machine Learning. In this post, I'll explain some attributes and some differences between both of these popular Machine Learning techniques.
 
-<p style="text-align:center"><img src="https://github.com/avannaldas/avannaldas.github.io/raw/master/uploads/kmeans-vs-knn.png" alt="K-Means vs KNN" title="K-Means vs KNN" style="max-width:850px"></p>
+<p style="text-align:center"><img src="https://github.com/avannaldas/avannaldas.github.io/raw/master/uploads/kmeans-vs-knn.png" alt="K-Means vs KNN" title="K-Means vs KNN" style="max-width:1000px"></p>
+
 <!--
 | K-Means | KNN |
 |:--------|:----|
@@ -19,4 +20,5 @@ K-Means (K-Means Clustering) and KNN (K-Nearest Neighbour) are often confused wi
 | In training phase of K-Means, K observations are arbitrarily selected (known as centroids) and the clusters are formed around (similar to) them. Once the clusters are formed, for each cluster the centroid is updated to the mean of all cluster members. And the cluster formation restarts with new centroids. This repeats until best centroids of the clusters are identified. The prediction of a test observation is done based on nearest centroid. | K-NN doesn't have a training phase as such. But the prediction of a test observation is done based on the K-Nearest (often euclidean distance) Neighbours (observations) based on weighted averages/votes. |
 -->
 
-> Learn more about <A href="https://en.wikipedia.org/wiki/K-means_clustering" target="_blank">K-Means Clustering</A> and <A href="https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm" target="_blank">K-Nearest Neighbors</A>
+<br />
+<i>Learn more about <A href="https://en.wikipedia.org/wiki/K-means_clustering" target="_blank">K-Means Clustering</A> and <A href="https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm" target="_blank">K-Nearest Neighbors</A></i>
