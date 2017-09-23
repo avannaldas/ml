@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "K-Means vs KNN"
-date: 2017-09-08
+date: 2017-09-23
 ---
 
 # K-Means vs KNN
