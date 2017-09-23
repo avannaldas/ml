@@ -17,16 +17,19 @@
 }
 
 table {
-  border-spacing: 0px;
   border-collapse: separate;
   padding: 0px;
-  border: solid 1px #f2f2f2;
+  border-width: thin;
+  border-spacing: 1px;
+  border-style: none;
+  border-color: #f2f2f2;
 }
 
 table th {
   display: table-cell;
   vertical-align: inherit;
   font-weight: bold;
+  font-size: large;
   text-align: center;
 }
 
