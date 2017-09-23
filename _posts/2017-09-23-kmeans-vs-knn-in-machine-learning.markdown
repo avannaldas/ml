@@ -7,9 +7,11 @@ date: 2017-09-08
 # K-Means vs KNN
 
 K-Means (K-Means Clustering) and KNN (K-Nearest Neighbour) are often confused with each other in Machine Learning. In this post, I'll explain some attributes and some differences between both of these popular Machine Learning techniques.
+<br/>
+
 
 | K-Means | KNN |
-|:--------|:----|
+|--------|-----|
 | It is an __Unsupervised__ learning technique | It is a __Supervised__ learning technique |
 | It is used for __Clustering__ | It is used mostly for __Classification__, and sometimes even for __Regression__ |
 | 'K' in K-Means is the number of clusters the algorithm is trying to identify/learn from the data. The clusters are often unknown since this is used with Unsupervised learning. | 'K' in KNN is the number of nearest neighbours used to classify or (predict in case of continuous variable/regression) a test sample |
