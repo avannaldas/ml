@@ -21,7 +21,7 @@ table {
   padding: 0px;
   border-width: thin;
   border-spacing: 1px;
-  border-style: none;
+  border-style: solid;
   border-color: #f2f2f2;
 }
 
