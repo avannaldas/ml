@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "K-Means vs KNN"
+date: 2017-09-08
+---
+
 # K-Means vs KNN
 
 K-Means (K-Means Clustering) and KNN (K-Nearest Neighbour) are often confused with each other in Machine Learning. In this post, I'll explain some attributes and some differences between both of these popular Machine Learning techniques.
