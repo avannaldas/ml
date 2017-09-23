@@ -19,10 +19,6 @@
 table {
   border-collapse: separate;
   padding: 0px;
-  border-width: thin;
-  border-spacing: 1px;
-  border-style: solid;
-  border-color: #f2f2f2;
 }
 
 table th {
@@ -31,6 +27,13 @@ table th {
   font-weight: bold;
   font-size: large;
   text-align: center;
+}
+
+table tr {
+  border-width: thin;
+  border-spacing: 1px;
+  border-style: solid;
+  border-color: #f2f2f2;
 }
 
 table td {
