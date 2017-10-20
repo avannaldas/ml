@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DBSCAN"
+title:  "DBSCAN Clustering"
 date: 2017-10-20
 ---
 
