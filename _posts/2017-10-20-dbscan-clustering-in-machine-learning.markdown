@@ -22,8 +22,8 @@ There are three types of points after the DBSCAN clustering is complete viz.,
 DBSCAN clustering can be summarized in following steps...
   1. For each point _P_ in dataset, identify points _pts_ within distance _n_.
      * if _pts_ >= _m_, label _P_ as a _Core_ point
+     * if _pts_ < _m_ and a core point is at distance _n_, label _P_ a _Border_ point
      * if _pts_ < _m_, label _P_ a _Noise_ point
-     * if _pts_ < _m_ and a core point is at distance _n_, label _P_ a _Border_ point 
    2. For the sake of explainability, lets refer to __a _Core_ point and all the points within distance _n___ as a Core-Set. All the overlapping Core-Sets are grouped together into one cluster. Like multiple individual graphs being connected to form a set of connected graphs.
 
 <p style="text-align:center">
