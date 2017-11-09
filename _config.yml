@@ -11,6 +11,7 @@ highlighter: rouge
 encoding: utf-8
 
 permalink: /:title.html
+future: false
 
 kramdown:
   parse_block_html: true
