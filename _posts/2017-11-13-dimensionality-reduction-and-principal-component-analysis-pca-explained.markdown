@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Dimensionality Reduction and Principal Component Analysis Explained"
+title:  "Dimensionality Reduction and Principal Component Analysis (PCA) Explained"
 date: 2017-11-13
 ---
-
-### Dimensionality Reduction and Principal Component Analysis Explained
 
 Data is seldom clean and ready for machine learning or predictive modelling. Data preprocessing is time consuming and non-trivial effort in any predictive modelling task. A recent <a href="https://www.kaggle.com/surveys/2017" target="_blank">kaggle survey</A> says that dirty data is a biggest barrier!
 
