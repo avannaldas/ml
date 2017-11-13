@@ -44,7 +44,7 @@ Computing PCA has three main steps...
   2. Perform SVD on the covariance matrix computed in step 1
   3. Step two returns three matrices viz., _U_, _S_ and _V_. Matrix _U_ is a _n_ x _n_ matrix, where _n_ is the number of total  dimensions/principal components. We choose first _k_ columns of the matrix, which represent _k_ dimensions we need.
 
-#### Dimensionality Reduction vs Feature Selection
+### Dimensionality Reduction vs Feature Selection
 With PCA we pick _k_ (most important) dimensions of _n_ dimensions. _k_ is a parameter determined based on problem and experience. These _k_ attributes are optimal to represent the insights, derive correlations and predictions.
 
 Feature Selection on other hand is picking a subset of all features (and engineered features) of higher importances. Importance can be calculated using different techniques. Some of the popular techniques are available in <A href="http://scikit-learn.org/stable/modules/feature_selection.html" target="_blank">sklearn</A> and sometimes, the learning algorithm provides the importances of different features.
