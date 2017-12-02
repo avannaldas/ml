@@ -19,4 +19,6 @@ K-Means (K-Means Clustering) and KNN (K-Nearest Neighbour) are often confused wi
 | In training phase of K-Means, K observations are arbitrarily selected (known as centroids). Each point in the vector space is assigned to a cluster represented by nearest (euclidean distance) centroid. Once the clusters are formed, for each cluster the centroid is updated to the mean of all cluster members. And the cluster formation restarts with new centroids. This repeats until best centroids of the clusters are identified. The prediction of a test observation is done based on nearest centroid. | K-NN doesn't have a training phase as such. But the prediction of a test observation is done based on the K-Nearest (often euclidean distance) Neighbours (observations) based on weighted averages/votes. |
 
 <br />
+<i>You can find a bare minimum KMeans algorithm implementation from scratch <A href="https://github.com/avannaldas/ML-from-scratch/blob/master/avlearn/cluster.py" target="_blank">here</A>.</i>
+<br />
 <i>Learn more about <A href="https://en.wikipedia.org/wiki/K-means_clustering" target="_blank">K-Means Clustering</A> and <A href="https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm" target="_blank">K-Nearest Neighbors</A></i>
