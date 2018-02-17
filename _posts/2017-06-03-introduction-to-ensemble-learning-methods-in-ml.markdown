@@ -6,9 +6,9 @@ date: 2017-06-03
 
 Machine Learning is advancing at a rapid pace day by day. It never ceases to surprise with newer breakthroughs from time to time. Be it IBM Watson's jeopardy win or a recent win of DeepMind's Alpha Go over a human expert in the game of Go. It is certainly the next revolution in the history of mankind after industrial revolution. Andrew Ng, best known for his introductory Machine Learning course, has rightly said - AI is the new electricity! It comes with unimaginable opportunities, only to be discovered by time.
 
-Many data science competition winning solutions nowadays are built using techniques known as Ensemble Learning. Dictionary meaning of Ensemble is a _group_. Likewise in ML, Ensemble refers to multiple (different) Machine Learning models working together as a group. In real life too, we know that a group is always intelligent than an individual. It's a quite natural to believe a piece of information that comes from multiple sources. We do look for multiple opinions at times in real life when one expert opinion isn't convincing enough for us to act upon. It's somewhat similar idea in Machine Learning. 
+Many data science competition winning solutions nowadays are built using techniques known as Ensemble Learning. Dictionary meaning of Ensemble is a _group_. Likewise in Machine Learning, Ensemble refers to multiple (different) Machine Learning models working together as a group. In real life too, we know that a group is always intelligent than an individual. It's a quite natural to believe a piece of information that comes from multiple sources. We do look for multiple opinions at times in real life when one expert opinion isn't convincing enough for us to act upon. It's somewhat similar idea in Machine Learning. 
 
-While any type of ML algorithms can be used with ensembling techniques, most often, some form of Decision Trees and/or random forests are used with ensembling techniques. In this post, we'll go through a quick introduction of Information Entropy, Decision Trees and popular ensemble techniques.
+While any type of Machine Learning algorithms can be used with ensembling techniques, most often, some form of Decision Trees and/or random forests are used with ensembling techniques. In this post, we'll go through a quick introduction of Information Entropy, Decision Trees and popular ensemble techniques.
 
 #### __Decision Tree and Information Entropy__ 
 Entropy is a measure of impurity/noise in data. When we navigate through the data reducing noise to find a piece of information/truth, we say that we have reached a pure form of data, meaning zero entropy. 
@@ -34,16 +34,15 @@ __Stacking__: Multiple algorithms are trained and the outputs (predictions) beco
 * <A href="https://en.wikipedia.org/wiki/Entropy_(information_theory)" target="_blank">Information Entropy</A>
 * <A href="https://en.wikipedia.org/wiki/Information_gain_in_decision_trees" target="_blank">Information Gain</A>
 * <A href="https://en.wikipedia.org/wiki/Ensemble_learning" target="_blank">Ensemble Learning</A>
-* <A href="https://en.wikipedia.org/wiki/Gradient_boosting" target="_blank">Gradient Boosting</A>
 * <A href="https://xgboost.readthedocs.io/en/latest/" target="_blank">XGBoost</A>
 * <A href="https://github.com/Microsoft/LightGBM" target="_blank">LightGBM</A>
 * <A href="http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/gbm.html" target="_blank">H2O</A>
 * <A href="https://www.import.io/post/how-to-win-a-kaggle-competition/" target="_blank">Blog post about winning Kaggle competitions</A>
 
 #### Mentioned in post
+* <A href="https://en.wikipedia.org/wiki/Watson_(computer)#Jeopardy.21" target="_blank">IBM Watson winning jeopardy</A>
+* <A href="https://en.wikipedia.org/wiki/AlphaGo" target="_blank">AlphaGo</A>
 * <A href="https://en.wikipedia.org/wiki/Andrew_Ng" target="_blank">Andrew Ng</A>
 * <A href="https://www.coursera.org/learn/machine-learning" target="_blank">Andrew Ng's Machine Learning Course</A>
 * <A href="https://twitter.com/andrewyng/status/735874952008589312?lang=en" target="_blank">AI is the new electricity!</A> tweet by Andrew Ng
-* <A href="https://en.wikipedia.org/wiki/AlphaGo" target="_blank">AlphaGo</A>
-* <A href="https://en.wikipedia.org/wiki/Watson_(computer)#Jeopardy.21" target="_blank">IBM Watson winning jeopardy</A>
 
