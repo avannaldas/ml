@@ -18,4 +18,4 @@ Useful links...
 - [Calculus One - Coursera.org](https://www.coursera.org/learn/calculus1){:target="_blank"}
 - [How to learn math - Stanford](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/about){:target="_blank"} - A short course which introduces to a different approach of learning math
 - [Math for machine learning](http://fastml.com/math-for-machine-learning/){:target="_blank"} - An interesting blog post
-- [Useful Stuff](https://avannaldas.github.io/useful-stuff/) - Page of this blog
+- [Useful Stuff]({{site.baseurl}}/useful-stuff/) - Page of this blog
