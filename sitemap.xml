@@ -6,62 +6,62 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
       
 <url>
-  <loc>http://abhijitannaldas.com/</loc>
+  <loc>http://abhijitannaldas.com/ml</loc>
   <lastmod>2017-06-23T11:29:16+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://abhijitannaldas.com/all-posts/</loc>
+  <loc>http://abhijitannaldas.com/ml/all-posts/</loc>
   <lastmod>2017-06-23T11:29:16+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://abhijitannaldas.com/projects/</loc>
+  <loc>http://abhijitannaldas.com/ml/projects/</loc>
   <lastmod>2017-06-23T11:29:16+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://abhijitannaldas.com/useful-stuff/</loc>
+  <loc>http://abhijitannaldas.com/ml/useful-stuff/</loc>
   <lastmod>2017-06-23T11:29:16+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://abhijitannaldas.com/discuss/</loc>
+  <loc>http://abhijitannaldas.com/ml/discuss/</loc>
   <lastmod>2017-06-23T11:29:16+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://abhijitannaldas.com/applied-vs-theoretical-machine-learning.html</loc>
+  <loc>http://abhijitannaldas.com/ml/applied-vs-theoretical-machine-learning.html</loc>
   <lastmod>2017-06-23T11:29:16+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://abhijitannaldas.com/introduction-to-ensemble-learning-methods-in-ml.html</loc>
+  <loc>http://abhijitannaldas.com/ml/introduction-to-ensemble-learning-methods-in-ml.html</loc>
   <lastmod>2017-06-23T11:29:16+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://abhijitannaldas.com/building-a-data-science-portfolio.html</loc>
+  <loc>http://abhijitannaldas.com/ml/building-a-data-science-portfolio.html</loc>
   <lastmod>2017-06-23T11:29:16+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://abhijitannaldas.com/my-first-machine-learning-hackathon.html</loc>
+  <loc>http://abhijitannaldas.com/ml/my-first-machine-learning-hackathon.html</loc>
   <lastmod>2017-06-23T11:29:16+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://abhijitannaldas.com/my-data-science-journey.html</loc>
+  <loc>http://abhijitannaldas.com/ml/my-data-science-journey.html</loc>
   <lastmod>2017-06-23T11:29:16+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://abhijitannaldas.com/mathematical-thinking.html</loc>
+  <loc>http://abhijitannaldas.com/ml/mathematical-thinking.html</loc>
   <lastmod>2017-06-23T11:29:16+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://abhijitannaldas.com/mathematics-for-machine-learning.html</loc>
+  <loc>http://abhijitannaldas.com/ml/mathematics-for-machine-learning.html</loc>
   <lastmod>2017-06-23T11:29:16+00:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
