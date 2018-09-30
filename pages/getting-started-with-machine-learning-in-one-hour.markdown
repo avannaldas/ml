@@ -7,7 +7,7 @@ I was planning agenda for my one hour talk. Conveying the learning paths, settin
 
 The notes for the talk were great for an introductory learning path, but were structured only for myself to help with the talk. Hence I wrote a machine learning getting started guide out of it and here it is. I'm very happy the way this ended up taking shape and I'm excited to share this!
 
-There are two main approaches to learn Machine Learning. Theoretical Machine Learning approach and Applied Machine Learning approach. I've written about it in my earlier [blog post](http://abhijitannaldas.com/applied-vs-theoretical-machine-learning.html).
+There are two main approaches to learn Machine Learning. Theoretical Machine Learning approach and Applied Machine Learning approach. I've written about it in my earlier [blog post]({{site.baseurl}}/applied-vs-theoretical-machine-learning.html).
 
 ### Theoretical Machine Learning
 Below are the subjects that you can start with (ordered as I think they are appropriate). For theoretical approach of learning Machine Learning, below subjects should be studied with great rigor and in depths.
@@ -107,12 +107,12 @@ If you know deep learning concepts and want to get your hands dirty, some popula
 
 ### Practice
 Yes, practice is the most important thing and this guide would have been incomplete without mentioning about practicing machine learning. To practice and master your skills further, below are the things you can do...
-  1. Get datasets from various online data sources. One such popular data source is [UCI Machine Learning Repository](archive.ics.uci.edu/ml/). Additionally, you can [search 'datasets for machine learning'](http://google.com/search?q=datasets+for+machine+learning).
+  1. Get datasets from various online data sources. One such popular data source is [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/). Additionally, you can [search 'datasets for machine learning'](http://google.com/search?q=datasets+for+machine+learning).
   2. Participate in online machine learning/data science hackathons. Some of the popular ones are - [Kaggle](http://kaggle.com), [HackerEarth](http://www.hackerearth.com), etc. If you end up starting with something that's very difficult, try persisting a bit. If it still feels difficult, park it aside and find other. There's no need to be disappointed. Usually problems on online hackathon have some level of difficulty which may not always be suitable for beginners.
   3. Blog about what you learn! It'll help you solidify your understanding and thoughts about the subject.
   4. Follow Data Science, Machine Learning topics on Quora, lot of great advice and questions/answers to learn from.
   5. Start listening to podcasts (available on link below)
-  6. Check out some useful links on my [Data Science Learning Resources](http://abhijitannaldas.com/useful-stuff/) page.
+  6. Check out some useful links on my [Data Science Learning Resources]({{site.baseurl}}/useful-stuff/) page.
 
 ### Closing thoughts
 If you are considering the field of Machine Learning/Data Science seriously and you are thinking of making a career switch, think about the your motivations and why you'd like to do it.
