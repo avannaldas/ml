@@ -1,4 +1,4 @@
-.image-cropper {
+.imagecropper {
     width: 100px;
     height: 100px;
     position: relative;
@@ -8,13 +8,14 @@
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
     border-radius: 50%;
-} /* 
-.image-cropper img {
+}
+  
+.imagecropper img {
     display: inline;
     margin: 0 auto;
     height: 100%;
     width: auto;
-} */
+}
 
 table {
   border-collapse: separate;
